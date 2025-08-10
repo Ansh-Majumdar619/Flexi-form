@@ -29,22 +29,6 @@ Easily create, customize, and manage forms with smooth animations, advanced fiel
 
 ---
 
-## 📂 Project Structure  
-flexiform/
-│── src/
-│ ├── components/ # Reusable UI components
-│ ├── pages/ # Main page views
-│ ├── store/ # Redux store and slices
-│ ├── utils/ # Local storage
-│ ├── types/ # TypeScript type definitions
-│ ├── App.tsx # Main app component
-│ └── index.tsx # Entry point
-│
-├── package.json
-├── tsconfig.json
-├── README.md
-└── ...
----
 
 ## 📦 Installation & Setup  
 
