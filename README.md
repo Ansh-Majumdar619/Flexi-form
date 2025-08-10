@@ -34,7 +34,7 @@ Easily create, customize, and manage forms with smooth animations, advanced fiel
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/flexiform.git
+git clone https://github.com/Ansh-Majumdar619/Flexi-form
 
 # Navigate into the project
 cd flexiform
